@@ -1,6 +1,6 @@
 $(document).ready(function () {
 	$('#btn-start').on('click', function () {
-		var queryURL = 'http://api.giphy.com/v1/gifs/xUOxeTxr8IruaTTK7u?api_key=dc6zaTOxFJmzC&limit=1';
+		var queryURL = 'https://api.giphy.com/v1/gifs/xUOxeTxr8IruaTTK7u?api_key=dc6zaTOxFJmzC&limit=1';
 
 		$('#hypno-gif').empty();
 
