@@ -1,0 +1,59 @@
+body {
+	background-color: #FFFFFF;
+	color: #BF5700;
+	/* font-family: 'Libre Barcode 39 Text', cursive; */
+	font-family: 'Rye', cursive;
+	font-size: 48px;
+	text-align: center;
+}
+
+
+.border {
+	border-style: solid;
+	border-radius: 25px;
+	margin: 20px;
+	padding: 5px;
+}
+
+.hidden-button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    /* border-radius: 50%; */
+    height: 250px;
+    width: 350px;
+}
+
+.hidden-button img{
+	height: 250px;
+    width: 350px;
+}
+
+#gif img{
+	height: 350px;
+	width: 550px;
+}
+
+/*#hypno-gif img{
+	display: inline;
+	margin: 0px;
+}*/
+
+/* .sm-gif {
+	height: 50px;
+	width: 75px;
+	display: inline;
+	margin: 0px;
+	padding: 0px;	
+} */
+
+.sm-gif {
+	height: 150px;
+	width: 175px;
+	/* display: inline; */
+	margin: 0px;
+	padding: 0px;	
+}
